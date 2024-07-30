@@ -8,8 +8,15 @@
 - [Como usar](#como-usar)
   - [Pré- Requisitos](#pre-requisitos)
   - [Local Files](#local-files)
+- [Features](#features)
 - [Tecnologias](#tecnologias)
 
 <a id="como-usar"></a>
 <h2>Como Usar</h2>
 <p>lorem</p>
+
+<a id="features"></a>
+<h3>Features</h3>
+
+- [X] Foto de Perfil
+- [X] Possibilidade de adição e remoção de links
