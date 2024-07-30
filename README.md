@@ -1,2 +1,2 @@
 # LinkCentral
- Central personalizada de links
+ LinkCentral é a sua central personalizada de links, onde você pode reunir e divulgar todos os seus conteúdos importantes em uma única página. Com uma interface intuitiva e fácil de usar, o LinkCentral permite que você organize e compartilhe seus perfis de redes sociais, portfólios, blogs, sites favoritos e muito mais. Ideal para influenciadores, criadores de conteúdo, profissionais e qualquer pessoa que deseja ter todos os seus links em um só lugar, facilitando o acesso e a divulgação de suas informações online.
