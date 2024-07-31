@@ -70,5 +70,6 @@
 
 <a id="tecnologias"></a>
 <h2>Tecnologias Utilizadas</h2>
-<p>- HTML5</p>
-<p>- CSS3</p>
+<img src="http://ForTheBadge.com/images/badges/uses-html.svg"
+"/>
+<p><img src="http://ForTheBadge.com/images/badges/uses-css.svg"</p>
