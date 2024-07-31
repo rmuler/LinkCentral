@@ -6,7 +6,7 @@
  <p> LinkCentral é a sua central personalizada de links, onde você pode reunir e divulgar todos os seus conteúdos importantes em uma única página. Com uma interface intuitiva e fácil de usar, o LinkCentral permite que você organize e compartilhe seus perfis de redes sociais, portfólios, blogs, sites favoritos e muito mais. Ideal para influenciadores, criadores de conteúdo, profissionais e qualquer pessoa que deseja ter todos os seus links em um só lugar, facilitando o acesso e a divulgação de suas informações online. </p>
 
 <a name="ancora"></a>
-# Os 5 Granges Kages
+# Tópicos
 - [Sobre](#sobre)
 - [Como Configurar](#como-configurar)
   - [Pré- Requisitos](#pre-requisitos)
@@ -16,12 +16,32 @@
 
 <a id="como-configurar"></a>
 <h2>Como Configurar</h2>
-- Adicionar ou remover links: Basta utilizas as div`s já criadas. 
-Ex:  
-```bash
-$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-$ chmod a+x gh-md-toc
+<p>- Como alterar o título da página: Basta mudar o parâmetro da tag "title".</p>
+<p>Ex: </p>
+
 ```
+    <title>Links do Richard</title>
+```
+<p>* Mude o que está entre as tags</p>
+
+<p>- Editar nome, foto de perfil e o sobre mim:</p>
+<p>* Nome: Alterar o parâmetro dentro da tag h1.</p>
+
+```
+<h1>Richard Muler</h1>
+```
+
+<p>- Adicionar ou remover links: Basta utilizas as div`s já criadas.</p>
+<p>Ex:</p>
+
+```
+<div>
+  <a href="https://github.com/rmuler" target="_blank"><img src="images/github.png" alt="Logo do Github">Github</a>
+</div>
+```
+<p>* Após o "href=", basta inserir o link desejado.</p>
+<p>* Após o "img src=", basta inserir o link do icon desejado, seja ele hospedado na pasta local ou hospedado em algum site fixo (lembre-se, caso opte pela segunda opção, há risco da imagem cair caso seja retirada se deu link oficial.</p>
+
 <a id="features"></a>
 <h3>Features</h3>
 
