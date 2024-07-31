@@ -30,6 +30,16 @@
 ```
 <h1>Richard Muler</h1>
 ```
+<p>* Foto de perfil: Alterar o parâmetro dentro da tag img.</p>
+
+```
+<img src="images/perfil.jpg" alt="Foto de Perfil" id="perfil">
+```
+<p>* Sobre mim: Alterar o parâmetro dentro da tag p (Caso queira deixá-la em seu tamanho padrão, basta retirar a tag "small").</p>
+
+```
+<p id="sobre"><small>ESTUDANTE DE CIÊNCIA DA COMPUTAÇÃO</small></p>
+```
 
 <p>- Adicionar ou remover links: Basta utilizas as div`s já criadas.</p>
 <p>Ex:</p>
