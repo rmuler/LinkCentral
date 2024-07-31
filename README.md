@@ -11,7 +11,6 @@
 - [Como Configurar](#como-configurar)
   - [Pré- Requisitos](#pre-requisitos)
   - [Local Files](#local-files)
-- [Features](#features)
 - [Tecnologias](#tecnologias)
 
 <a id="como-configurar"></a>
@@ -53,7 +52,23 @@
 <p>* Após o "img src=", basta inserir o link do icon desejado, seja ele hospedado na pasta local ou hospedado em algum site fixo (lembre-se, caso opte pela segunda opção, há risco da imagem cair caso seja retirada se deu link oficial.</p>
 
 <a id="features"></a>
-<h3>Features</h3>
 
-- [X] Foto de Perfil
-- [X] Possibilidade de adição e remoção de links
+<p>- Adicionar meu currículo para usuários baixarem: Coloque seu arquivo como nome " curriculo " em formato pdf na pasta `archives`.</p>
+
+<a id="pre-requisitos"></a>
+<h2>Pré Requisitos</h2>
+<p>- Visual Studio Code;</p>
+<p>- Hospedagem para seu LinkCentral;</p>
+<p>- Domínio para seu LinkCentral (OPCIONAL);</p>
+
+<a id="local-files"></a>
+<h2>Local Files</h2>
+<p>- Pasta "images": icons armazenados localmente;</p>
+<p>- Pasta "archives": curriculo armazenado localmente para download dos usuários;</p>
+<p>- index.html: arquivo com a estrutura da página;</p>
+<p>- style.css: arquivo com a estilização da página;</p>
+
+<a id="tecnologias"></a>
+<h2>Tecnologias Utilizadas</h2>
+<p>- HTML5</p>
+<p>- CSS3</p>
