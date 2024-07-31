@@ -8,16 +8,20 @@
 <a name="ancora"></a>
 # Os 5 Granges Kages
 - [Sobre](#sobre)
-- [Como usar](#como-usar)
+- [Como Configurar](#como-configurar)
   - [Pré- Requisitos](#pre-requisitos)
   - [Local Files](#local-files)
 - [Features](#features)
 - [Tecnologias](#tecnologias)
 
-<a id="como-usar"></a>
-<h2>Como Usar</h2>
-<p>lorem</p>
-
+<a id="como-configurar"></a>
+<h2>Como Configurar</h2>
+- Adicionar ou remover links: Basta utilizas as div`s já criadas. 
+Ex:  
+```bash
+$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+$ chmod a+x gh-md-toc
+```
 <a id="features"></a>
 <h3>Features</h3>
 
